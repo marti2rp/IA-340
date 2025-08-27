@@ -1,6 +1,5 @@
 # IA-340 Python Codes
 
-IA-340 project
 
 ## [Course Description](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336)
 Data mining is the nontrivial extraction of previously unknown and potential useful information from (large) data sets to help explain current behaviors and anticipate future outcomes. Students will apply data mining and knowledge discovery methods to data sets from business, industry and government. The course is team oriented, project based and grounded in the relevant legal and ethical context.
@@ -13,8 +12,8 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 ## Assignments
 
-1. lab1
-2. lab2
-3. lab3
-4. mini project
-5. inal project
+1. Lab1
+2. Lab2
+3. Lab3
+4. Mini project
+5. Final project
