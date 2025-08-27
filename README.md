@@ -8,13 +8,13 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 ## Purpose
 
-The purpose of this repository is to keep a record of my assignments and to track any improvements I have made.
+- House my assignments for IA-340
+- Track any improvements I have made
 
 ## Assignments
 
 1. lab1
 2. lab2
 3. lab3
-
-- mini project
-- final project
+4. mini project
+5. inal project
