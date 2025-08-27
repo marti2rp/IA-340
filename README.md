@@ -17,3 +17,5 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 3. Lab3
 4. Mini project
 5. Final project
+
+[![Rick]](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
