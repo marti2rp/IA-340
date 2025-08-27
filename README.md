@@ -8,7 +8,7 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 ## Purpose
 
-- House my assignments for IA-340
+- House assignments for IA-340
 - Track any improvements I have made
 
 ## Assignments
